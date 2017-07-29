@@ -75,7 +75,7 @@ if (WebOperationContext.Current.IncomingRequest.Method == "GET")
 </pre>
 
 <b>Want to see some working examples?</b></br>
-Ahhhh, Sure. Everything is in the "Http Documentation" word file, since unable to share the screen shot over here....
+Ahhhh, Sure. Everything is in the <b>"Http Documentation.docx"</b> word file, since unable to share the screen shot over here....
  
  <b>What to expect over here further?</b></br>
  Trying to work on Message inspector. Hope I will update soon here with some more POCs.
