@@ -1,7 +1,7 @@
 # HttpMultiRequestRouter
 
 <b>Why this tool?</b> </br>
-Ever faced a situation like, have to call the WCF service with its functionality name and HTTP verb alone as we are doing in the ASP.Net Web API?  
+Ever faced a situation like, have to call the WCF service with its functionality name (controller name) and HTTP verb (Get,Post etc.) alone as we are doing in the ASP.Net Web API?  
 
 <b>Ex:-</b></br>
 Functionality Name: PushNotification</br>
